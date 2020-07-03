@@ -20,7 +20,7 @@
       width: 100%;
     }
     
-    .list-header {
+    .list-header ul li {
      margin-right: 5px;
      padding: 10px 5px; 
     }
