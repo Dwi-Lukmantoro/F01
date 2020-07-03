@@ -21,8 +21,10 @@
     }
     
     .list-header {
-     padding: 18px 8px; 
+     margin-right: 5px;
+     padding: 10px 5px; 
     }
+      
     
     .btn {
       width: 100%;
