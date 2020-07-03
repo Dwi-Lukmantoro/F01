@@ -20,11 +20,9 @@
       width: 100%;
     }
     
-    .list-header {
-        float: none;
-      }
+
     .header {
-        float: none;
+        clear: both;
       }  
     .btn {
       width: 100%;
