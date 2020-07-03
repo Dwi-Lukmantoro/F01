@@ -20,21 +20,17 @@
       width: 100%;
     }
     
-    .list-header ul li {
-     margin-right: 5px;
-     padding: 10px 5px; 
-    }
-      
-    
+    .list-header {
+        float: none;
+      }
+    .header {
+        float: none;
+      }  
     .btn {
       width: 100%;
     }
      
-   
-    .header-right {
-      display:  none;
-    }
-          
+            
     .main-content h2{
         font-size: 20px;
     }
